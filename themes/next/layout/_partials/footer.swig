@@ -49,3 +49,6 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 {% endif %}
+<div class="powered-by">
+	<span class="post-meta-item-text">相识便是缘，感谢一路有你</span>
+</div>
