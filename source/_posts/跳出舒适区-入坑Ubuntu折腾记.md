@@ -1,7 +1,7 @@
 ---
 title: 跳出舒适区-入坑Ubuntu折腾记
 date: 2017-11-20 23:21:20
-categories: 工具效率
+categories: 实践记录
 tags:
 - Ubuntu
 - Linux
