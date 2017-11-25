@@ -1,7 +1,7 @@
 ---
 title: '笔记|SQL性能优化'
 date: 2017-06-14 09:47:48
-categories: 技术探究
+categories: 笔记分享
 tags:
 - 性能调优
 - MySQL

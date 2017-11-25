@@ -1,7 +1,7 @@
 ---
 title: 《深入理解Java虚拟机——自动内存管理机制》笔记与心得
 date: 2017-07-08 22:22:27
-categories: 技术探究
+categories: 笔记分享
 tags:
 - JVM
 ---
